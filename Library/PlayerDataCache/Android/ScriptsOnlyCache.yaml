@@ -68,11 +68,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9912}
     - Class: 114
-      Script: {instanceID: 10070}
+      Script: {instanceID: 10072}
     - Class: 114
-      Script: {instanceID: 10100}
+      Script: {instanceID: 10102}
     - Class: 114
-      Script: {instanceID: 10178}
+      Script: {instanceID: 10180}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -771,4 +771,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/GameScene.unity
-  playerPath: D:/MobielBuild/Game.apk
+  playerPath: C:/Users/User1/MaxieMind/Build/Game.apk
